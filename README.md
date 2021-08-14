@@ -5,4 +5,4 @@ Login admin = http://localhost/tes-case-web-dev-majoo-mohamad-zulkifli/admin/log
 Username = admin
 Password = admin
 
-Import database uang ada di directory database, kemudian ubah file konfigurasi yang ada di application/config/database ubah username, password, host dan nama database sesuai dengan konfigurasi mysql di komputer.
+Import database yang ada di directory database, kemudian ubah file konfigurasi yang ada di application/config/database ubah username, password, host dan nama database sesuai dengan konfigurasi mysql di komputer.
