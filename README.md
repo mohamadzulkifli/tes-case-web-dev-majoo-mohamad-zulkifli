@@ -1,6 +1,8 @@
 # tes-case-web-dev-majoo-mohamad-zulkifli
 Tes Case Web Dev Majoo - Mohamad Zulkifli
 
+Web / aplikasi dibangun menggunakan framework codeigniter.
+
 Login admin = http://localhost/tes-case-web-dev-majoo-mohamad-zulkifli/admin/login
 Username = admin
 Password = admin
